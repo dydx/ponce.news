@@ -16,3 +16,8 @@
 ## Revenue Modeling / Ads
 * What sort of ads should the site have?
 * Who's ads should be on the site?
+
+## Social Media Integration
+* Facebook
+* Instagram?
+* Twitter?
