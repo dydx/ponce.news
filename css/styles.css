@@ -3,3 +3,18 @@
   justify-content: center;
   align-items: center;
 }
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 
+  /* grid-template-columns: repeat(3, 1fr); */
+}
+
+.wrapper > div {
+  background: #eee;
+  padding: 1em;
+}
+
+.wrapper > div:nth-child(odd) {
+  background: #ddd;
+}
