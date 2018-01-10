@@ -1,0 +1,20 @@
+{
+  "name": "@dydx/ponce.news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel watch index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dydx/ponce.news.git"
+  },
+  "keywords": [],
+  "author": "Josh Sandlin <josh.sandlin@turner.com> (http://adultswim.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dydx/ponce.news/issues"
+  },
+  "homepage": "https://github.com/dydx/ponce.news#readme"
+}
