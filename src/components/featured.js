@@ -10,20 +10,20 @@ const Featured = () => (
         </header>
         <div class="mini-posts">
             <article>
-                <a href="#" className="image"><img src={ pic01 } alt="" /></a>
-                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+                <a href="https://www.instagram.com/p/Br78HlEgLa5/" className="image"><img src="https://www.instagram.com/p/Br78HlEgLa5/media/?size=m" alt="" /></a>
+                <p>Flooding at Inman Park after heavy rains.</p>
             </article>
             <article>
-                <a href="#" className="image"><img src={ pic02 } alt="" /></a>
-                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+                <a href="https://www.instagram.com/p/BrT0sEug11l/" className="image"><img src="https://www.instagram.com/p/BrT0sEug11l/media/?size=m" alt="" /></a>
+                <p>A truck tries to park on a ledge. This ends badly.</p>
             </article>
             <article>
-                <a href="#" className="image"><img src={ pic03 } alt="" /></a>
-                <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+                <a href="https://www.instagram.com/p/Bds-B4Rhf5G/" className="image"><img src="https://www.instagram.com/p/Bds-B4Rhf5G/media/?size=m" alt="" /></a>
+                <p>A driver allegedly pulled out in front of a MARTA bus in rush hour traffic.</p>
             </article>
         </div>
         <ul class="actions">
-            <li><a href="#" className="button">More</a></li>
+            <li><a href="https://instagram.com/poncenewsnetwork" className="button">More</a></li>
         </ul>
     </section>
 );
