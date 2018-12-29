@@ -2,14 +2,13 @@ import React from 'react';
 
 import Layout from '../components/layout';
 import Header from '../components/header';
-import Player from '../components/player';
+import Weather from '../components/Weather'
 
-
-const LiveBroadcast = () => (
+const WeatherPage = () => (
   <Layout>
     <Header />
-    <Player />
+    <Weather />
   </Layout>
-)
+);
 
-export default LiveBroadcast;
+export default WeatherPage;

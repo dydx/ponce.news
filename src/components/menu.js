@@ -8,6 +8,7 @@ const Menu = () => (
         </header>
         <ul>
             <li><Link to="/">Latest News</Link></li>
+            <li><Link to="/weather">Weather</Link></li>
             <li><Link to="/">Offbeat</Link></li>
             <li><Link to="/">Traffic</Link></li>
             <li><Link to="/">Politics</Link></li>
